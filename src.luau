@@ -3958,6 +3958,7 @@ end
 if CEnabled and Main:FindFirstChild('Notice') then
 	Main.Notice.BackgroundTransparency = 1
 	Main.Notice.Title.TextTransparency = 1
+	Main.Notice.Title.Text = "Rayfi UI"
 	Main.Notice.Size = UDim2.new(0, 0, 0, 0)
 	Main.Notice.Position = UDim2.new(0.5, 0, 0, -100)
 	Main.Notice.Visible = true
