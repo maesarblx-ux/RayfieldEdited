@@ -7,6 +7,7 @@
 	iRay   | Programming
 	Max    | Programming
 	Damian | Programming
+	Maesa | Edit
 
 ]]
 
